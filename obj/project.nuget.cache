@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBR85Vh00kWNxvODvYTcN/cU6n/Fveq9jOsoZO6vtPxRKqGFoXMfcKayXxbFsVKllFDkwbtZ4eteQKC4zD56xQ==",
+  "success": true,
+  "projectFilePath": "E:\\Data\\Projects\\VisualStudio\\DynamicIpResolving\\DynamicIpResolving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andtun\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

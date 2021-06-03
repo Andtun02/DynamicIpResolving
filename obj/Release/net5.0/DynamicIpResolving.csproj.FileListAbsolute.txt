@@ -1,0 +1,17 @@
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.exe
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.deps.json
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.runtimeconfig.json
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.runtimeconfig.dev.json
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.dll
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\ref\DynamicIpResolving.dll
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\DynamicIpResolving.pdb
+E:\Data\Projects\VisualStudio\DynamicIpResolving\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.AssemblyInfoInputs.cache
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.AssemblyInfo.cs
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.csproj.CoreCompileInputs.cache
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.csproj.CopyComplete
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.dll
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\ref\DynamicIpResolving.dll
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.pdb
+E:\Data\Projects\VisualStudio\DynamicIpResolving\obj\Release\net5.0\DynamicIpResolving.genruntimeconfig.cache
