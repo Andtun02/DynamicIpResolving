@@ -7,6 +7,10 @@
 
 这样做有什么用呢？不用每次都去手动查询外网IP了呗，你又无法预测到底什么时候IP会变动。
 
+>编译环境：
+* VisualStudio2019
+* Net 5.0
+
 <img src="https://raw.githubusercontent.com/AndtunO/DynamicIpResolving/main/Img-1.png"><!--图片1-->
 <img src="https://raw.githubusercontent.com/AndtunO/DynamicIpResolving/main/img-2.png"><!--图片2-->
 
