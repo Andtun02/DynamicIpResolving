@@ -12,5 +12,6 @@
 * Net 5.0
 
 <img src="https://raw.githubusercontent.com/AndtunO/DynamicIpResolving/main/Img-1.png"><!--图片1-->
+<img src="https://raw.githubusercontent.com/AndtunO/DynamicIpResolving/main/img-3.png"><!--图片3-->
 <img src="https://raw.githubusercontent.com/AndtunO/DynamicIpResolving/main/img-2.png"><!--图片2-->
 
