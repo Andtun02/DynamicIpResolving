@@ -1,0 +1,2 @@
+# DynamicIpResolving
+使用华为域名解析API，自动将软件运行环境的外网IP解析到指定的华为域名上
